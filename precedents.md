@@ -6,7 +6,18 @@
 - [plan day](#plan-day)
 - [watch day plan](#watch-day-plan)
 - [add milestone](#add-milestone)
+- [edit milestone](#edit-milestone)
+- add issue
 - [reopen issue](#reopen-issue)
+- edit issue details
+- change assignee
+- create project
+- edit project
+- edit status
+- edit archive
+- add user
+- remove user
+- edit role
 
 ## Шаблон
 ### Название
