@@ -10,7 +10,7 @@
 - [add issue](#add-issue)
 - [reopen issue](#reopen-issue)
 - [edit issue details](#edit-issue-details)
-- [change assignee](#changle-assignee)
+- [change assignee](#change-assignee)
 - create project
 - edit project
 - edit status
